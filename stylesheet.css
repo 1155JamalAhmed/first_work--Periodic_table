@@ -1,0 +1,18 @@
+td{
+	width: 5vw;
+	border: 2px solid #5b7590;
+	text-align: center;
+}
+body{
+	margin: 0;
+
+}
+
+.noborder{
+	border: none;
+}
+.headingOne{
+	background-color: #fff95d;
+	padding: 5px;
+	font-size: 5vw;
+}
